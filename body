@@ -1,0 +1,80 @@
+<div class="tam_mdisar">
+<h2>Nuestros operadores y colaboradores</h2>
+        <ul class="ch-grid" itemprop="members">
+                <li itemprop="founder">
+                        <div class="ch-item ch-img-1" itemscope="" itemtype="http://schema.org/Person">
+                                <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                                <div class="ch-info-front ch-img-1"></div>
+                                                <div class="ch-info-back">
+                                                        <h3 itemprop="name">Corrado Lonetto</h3>
+                                                        <div class="linkedin-square hide-for-small"><a href="http://www.linkedin.com/in/corradolonetto" target="_blank">Profilo LinkedIn di Corrado Lonetto</a>
+                                                        </div>
+                                                        <p itemprop="jobTitle">Account &amp; Marketing</p>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </li>
+                <li itemprop="founder">
+                        <div class="ch-item ch-img-2" itemscope="" itemtype="http://schema.org/Person">
+                                <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                                <div class="ch-info-front ch-img-2"></div>
+                                                <div class="ch-info-back">
+                                                        <h3 itemprop="name">Luca Iadema</h3>
+                                                        <div class="linkedin-square hide-for-small"><a href="http://www.linkedin.com/pub/luca-iadema/26/169/a17" target="_blank">Profilo LinkedIn di Luca Iadema</a>
+                                                        </div>
+                                                        <p itemprop="jobTitle">Account &amp; Strategy</p>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </li>
+                <li itemprop="employee">
+                        <div class="ch-item ch-img-5" itemscope="" itemtype="http://schema.org/Person">
+                                <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                                <div class="ch-info-front ch-img-5"></div>
+                                                <div class="ch-info-back">
+                                                        <h3 itemprop="name">Jessica Soffiati</h3>
+                                                        <div class="linkedin-square hide-for-small"><a href="http://www.linkedin.com/in/jessicasoffiati/" target="_blank">Profilo LinkedIn di Jessica Soffiati</a>
+                                                        </div>
+                                                        <p itemprop="jobTitle">Social Media &amp; Fotografia</p>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </li>
+                <li itemprop="founder">
+                        <div class="ch-item ch-img-3" itemscope="" itemtype="http://schema.org/Person">
+                                <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                                <div class="ch-info-front ch-img-3"></div>
+                                                <div class="ch-info-back">
+                                                        <h3 itemprop="name">Marco Escher</h3>
+                                                        <div class="linkedin-square hide-for-small"><a href="http://www.linkedin.com/in/eschermarco/" target="_blank">Profilo LinkedIn di Marco Escher</a>
+                                                        </div>
+                                                        <p itemprop="jobTitle">Web Designer</p>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </li>
+                <li itemprop="founder">
+                        <div class="ch-item ch-img-4" itemscope="" itemtype="http://schema.org/Person">
+                                <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                                <div class="ch-info-front ch-img-4"></div>
+                                                <div class="ch-info-back">
+                                                        <h3 itemprop="name">Stefano Marchesi</h3>
+                                                        <div class="linkedin-square hide-for-small"><a href="http://www.linkedin.com/in/marchesistefano/" target="_blank">Profilo LinkedIn di Marco Escher</a>
+                                                        </div>
+                                                        <p itemprop="jobTitle">Sviluppatore</p>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </li>
+        </ul>
+</div>
